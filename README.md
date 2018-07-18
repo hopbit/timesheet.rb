@@ -12,6 +12,7 @@ In use since 2016. TBC :)
 * Refactor to OOP.
 * Add Unit Tests.
 * Enable YAML configuration instead of passing args as script parameters.
-* GEM?
+* Convert to GEM
+* Docs
 
 ----

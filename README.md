@@ -7,3 +7,11 @@ In usage since 2016. TBC :)
 
 ----
 
+**TODO**
+
+* Refactor to OOP.
+* Add Unit Tests.
+* Enable YAML configuration instead of passing args as script parameters.
+* GEM?
+
+----
